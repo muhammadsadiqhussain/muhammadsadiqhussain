@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web & App Development**
 
-- 👨‍💻 All of my projects are available at [https://muhammadsadiqhussain.github.io)
+- 👨‍💻 All of my projects are available at [https://www.github.com/muhammadsadiqhussain)
 
 - 📫 How to reach me **sh2453621@gmail.com**
 
